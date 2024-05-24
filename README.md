@@ -1,5 +1,5 @@
 ### Hello! I'm Arunabha
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arunabha-mandal-1)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **arunabha-mandal-1/arunabha-mandal-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
