@@ -1,5 +1,4 @@
-# Hello! I'm Arunabha Mandal
-### Computer Science and Engineering Student, Android Developer and a Keen Learner
+# Hello! I'm Arunabha Mandal 😀
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arunabha-mandal-1&layout=donut)](https://github.com/anuraghazra/github-readme-stats)-->
 <!--
 **arunabha-mandal-1/arunabha-mandal-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
